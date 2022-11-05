@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lista de compras</string>
+    <string name="action_settings">Configurações</string>
+    <string name="empty_list">Sua lista está vazia</string>
+    <string name="image_empty_list_description">Imagem lista vazia</string>
+    <string name="add_items_description">Adicionar itens</string>
+    <string name="hint_quantity">Quantidade</string>
+    <string name="tv_total">Total:</string>
+    <string name="clear_list">Limpar lista</string>
+    <string name="hint_product">Produto</string>
+    <string name="btn_save">Salvar</string>
+    <string name="fill_fields">Preencha todos os campos</string>
+    <string name="registered">Produto inserido com sucesso</string>
+    <string name="already_registered">Produto já cadastrado</string>
+</resources>
