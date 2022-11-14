@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#74ABE1"
-    tools:context=".AddItemActivity">
+    tools:context=".ui.AddProductActivity">
 
     <com.google.android.material.textfield.TextInputLayout
         android:id="@+id/til_product"
